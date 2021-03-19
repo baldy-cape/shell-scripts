@@ -3,7 +3,7 @@
 # Use it at home to take advantage of free power from solar panels
 # 19 March 2021 laurence.baldwin@gmail.com
 # Requires hdate and at
-# # apt-get install at hbrew
+# # apt-get install at hdate
 # London is 51 0 and GMT+0
 LONG=51
 LAT=0
